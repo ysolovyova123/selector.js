@@ -9,8 +9,10 @@
   },
   "devDependencies": {
     "docco": "^0.7.0",
-    "http-server": "^0.11.1",
+    "http-server": "^0.12.3",
     "opn-cli": "^3.1.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "testem": "^3.2.0"
+  }
 }
